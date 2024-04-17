@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Search_Container",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "U52iP82hdEWFNLTo-bcwig",
+  "Reference": "z21PxGnYyUyE3uKpujuHLg/U52iP82hdEWFNLTo-bcwig",
+  "ParentRef": "z21PxGnYyUyE3uKpujuHLg/P9kth24AD0GkNnyCj_Gbxg",
+  "Created": "2024-04-02T06:28:42.4925604Z",
+  "Updated": "2024-04-02T06:30:59.6669569Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

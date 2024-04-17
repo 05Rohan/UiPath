@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5jgXPzIaFkiiqF3IIUxa-A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.cma-cgm.com/ebusiness/tracking" CvElementArea="11, 494, 714, 62" CvType="InputBox" DesignTimeRectangle="11, 495, 712, 60" DesignTimeScaleFactor="1.5" ElementType="InputBox" FriendlyName="'INPUT Reference'" FullSelectorArgument="&lt;webctrl id='Reference' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl id='Reference' tag='INPUT' type='text' class='k-input-inner duplicatecheck bookingCheck' aaname='' /&gt;" Guid="00d89e45-3d30-4f80-b813-7d16efe23a5d" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.cma-cgm.com/*' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="11, 459, 412, 24" CvTextArgument="Container, Bill of lading or Booking reference" CvType="Text" DesignTimeRectangle="11, 459, 712, 24" ElementType="Text" FriendlyName="'Container, Bill'" FullSelectorArgument="&lt;webctrl tag='LABEL' aaname='Container, Bill of lading or Booking reference' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' aaname='Container, Bill of lading or Booking reference' type='' class='' check:text='Container, Bill of lading or Booking reference' /&gt;" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5d9ec2a74330b07606f3d1dbbfc5a12a.png" xmlns="">0Bvh_j39ssEK3kcBLvv6YlA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

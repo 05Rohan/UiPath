@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FWusR7_NZUqInS3zCBheFQ" Reference="z21PxGnYyUyE3uKpujuHLg/zXa8KgyCk0-HzM9vAG2Riw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.cma-cgm.com/ebusiness/tracking/search" CvTextArea="11, 320, 220, 45" CvTextArgument="Tracking details" CvType="Text" DesignTimeRectangle="11, 318, 217, 48" DesignTimeScaleFactor="1.5" ElementType="Text" FriendlyName="'Tracking details'" FullSelectorArgument="&lt;webctrl aaname='Tracking details' innertext='Tracking details' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Tracking details' innertext='Tracking details' tag='H2' type='' class='' check:text='Tracking details' /&gt;" Guid="f957a4a3-b318-4f45-a9cc-8ae6b3605d6e" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.cma-cgm.com/*' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="407feae9a0a923cd8ac7cc5629074b37.png" xmlns="">0LAo1fxbAskqs8ZxScr1Rlw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Header_TrackingDetails",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "zXa8KgyCk0-HzM9vAG2Riw",
+  "Reference": "z21PxGnYyUyE3uKpujuHLg/zXa8KgyCk0-HzM9vAG2Riw",
+  "ParentRef": "z21PxGnYyUyE3uKpujuHLg/P9kth24AD0GkNnyCj_Gbxg",
+  "Created": "2024-04-02T06:36:53.8939879Z",
+  "Updated": "2024-04-02T06:39:07.7233975Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LTZWjSoW40-0VXyesV2S8Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.cma-cgm.com/ebusiness/tracking/search" CvElementArea="1056, 312, 33, 27" CvTextArea="828, 315, 223, 24" CvTextArgument="Display Previous Moves" CvType="ArrowButton" DesignTimeRectangle="830, 381, 257, 21" DesignTimeScaleFactor="1.5" ElementType="Text" FriendlyName="'Display Previous Moves'" FullSelectorArgument="&lt;webctrl aria-role='treegrid' tag='TABLE' /&gt;&lt;webctrl tag='A' aaname='Display Previous Moves' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='treegrid' tag='TABLE' /&gt;&lt;webctrl tag='A' aaname='Display Previous Moves' type='' class='k-icon k-i-expand' check:text='Display Previous Moves' /&gt;" Guid="dac3489f-3f95-43cc-879b-1a72cd7556dc" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.cma-cgm.com/*' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="75a87c1d22d02e52f4c1b4cb3a8ba21b.png" xmlns="">07wBNBFuw6kGyJh2l85pi2g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="xOYmDO4jQEGxZqO7olWj9A" Reference="z21PxGnYyUyE3uKpujuHLg/P9kth24AD0GkNnyCj_Gbxg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="IbloUSbxzE-8eAYCuOwJxQ" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAIAAAB/UwMIAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACfSURBVDhP5ZAxCoNAEEX3BHoDsfA03sDeg4illYVX0BNY2tlaWAvaiHZaCyrPXWMgJJjELpDHFMPMf8Oyguv8ibOu5Dm+j21jWWgaQqDrOI5cvjjDgOdhGCr0VKZJ28rIg7MsBIFayGNRRJZRllQVRUGaEob0/S14d7oO1yWOmaZjcs7uNA1Jwjzvk88IxlG94QqCuj7arzn567f8rgMbXswEmF86tiIAAAAASUVORK5CYII=" Reference="z21PxGnYyUyE3uKpujuHLg/P9kth24AD0GkNnyCj_Gbxg" Selector="&lt;html app='chrome.exe' title='CMA CGM*' /&gt;" Title="CMA CGM | Shipment Tracking" Url="https://www.cma-cgm.com/*">
+      <imageRef attrName="InformativeScreenshot" originalValue="d310d7319eb8bf9bc9969cfa867a1636.jpg" xmlns="">0_6VknxwRDUOUw1FTYBfGQw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
